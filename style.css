@@ -50,13 +50,13 @@ ul {
 }
 
 .toppers{
-  border-radius: 10px;
   max-width: 25%;
-  opacity: 95%;
+  opacity: 98%;
   height: 10px;
   position: relative;
-  left: 1650px;
+  left: 1450px;
   bottom: 300px;
+  transform: rotate(15deg);
 }
 
 .express{
