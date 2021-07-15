@@ -29,9 +29,11 @@ h3 {
 h2, h3, h4 {
   text-align: center;
 }
+
 li{
   text-align:center
 }
+
 p, li, h2, h4{
   color: white;
   font-family: Arial, Helvetica, sans-seif;
