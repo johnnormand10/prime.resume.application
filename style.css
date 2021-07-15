@@ -1,14 +1,7 @@
-#rcorners1{
-  border-radius: 25px;
-  background: black;
-  padding: 20px;
-  width: 200px;
-  height: 150px;
-}
-
 body {
   background-color: DarkCyan;
   border-radius: 25px;
+  margin: 10% 15%;
 }
 
 .header {
@@ -27,7 +20,7 @@ h2{
 }
 
 h3 {
-  font-size:18px
+  font-size:20px
 }
 
 h2, h3, h4 {
@@ -46,6 +39,6 @@ p{
 ul {
   list-style-type: lower-roman;
   list-style-position: inside;
-  line-height: 15px;
-  font-size: 15px
+  line-height: 18px;
+  font-size: 18px
 }
